@@ -48,7 +48,7 @@ cd seu-repositorio
 </ul>
 
 <pre>
-<code>$domainName = "SeuDominio.local"  # Substituir pelo nome do domínio desejado.</code>
+<code>$domainName = "SeuDominio.local"  # Substituir pelo nome do domínio desejado. </code>
 </pre>
 
 <ul>
